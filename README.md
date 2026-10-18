@@ -2,9 +2,8 @@
 
 Portfólio acadêmico e profissional (Ciência da Computação, noturno), com foco em Cibersegurança, Back-end e IA. Entrega do **Bootcamp I, CEUB EAD**.
 
-- **Site:** https://SEU_USUARIO.github.io/Study-Hub-TI/
+- **Site:** https://felipemg05.github.io/Study-Hub-TI/
 - **LinkedIn:** https://www.linkedin.com/in/felipe-gusm%C3%A3o-89005530b
-- **Apresentação (YouTube):** LINK_YOUTUBE
 - **Contato:** felipipimg@gmail.com
 
 ## Estrutura
