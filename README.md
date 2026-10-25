@@ -1,20 +1,35 @@
-# Study Hub TI | Felipe Madruga Gusmão
+# 🚀 Study-Hub-TI | PortfolioHUB - Ciência da Computação (UniCEUB)
 
-Portfólio acadêmico e profissional (Ciência da Computação, noturno), com foco em Cibersegurança, Back-end e IA. Entrega do **Bootcamp I, CEUB EAD**.
+Bem-vindo ao **Study-Hub-TI**, o repositório central de projetos e estudos integrado à plataforma **PortfolioHUB**, desenvolvido na disciplina de **Bootcamp I** do curso de Ciência da Computação do Centro Universitário de Brasília (UniCEUB).
 
-- **Site:** https://felipemg05.github.io/Study-Hub-TI/
-- **LinkedIn:** https://www.linkedin.com/in/felipe-gusm%C3%A3o-89005530b
-- **Contato:** felipipimg@gmail.com
+Este repositório armazena os códigos-fonte, documentações técnicas, estudos em Tecnologia da Informação e diretrizes de segurança e colaboração dos meus projetos acadêmicos e profissionais.
 
-## Estrutura
-```
-├── 01_Apresentacao_e_Perfil/
-├── 02_Disciplinas_Cursadas/
-├── 03_Disciplinas_em_Curso/
-├── 04_Projetos_e_Certificados/
-├── index.html
-└── README.md
-```
+---
 
-## Boas práticas
-Pastas numeradas (ordem de leitura), commits pequenos e descritivos, um README por projeto e GitHub Pages publicando direto do repositório. A versão 1.0 está na tag `v1.0`.
+## 🛠️ Arquitetura e Ferramentas Integradas
+
+* **Front-end / Portal do Portfólio:** Google Sites (PortfolioHUB)
+* **Documentação e Artefatos:** Google Docs, Google Apresentações, Google Drive e Google Agenda
+* **Versionamento e Hospedagem de Código:** Git & GitHub (`Felipemg05/Study-Hub-TI`)
+* **IA de Apoio à Implantação e Segurança:** Google Gemini
+
+---
+
+## 🔒 Políticas de Segurança e Controle de Acesso
+
+Este repositório segue práticas de segurança baseadas na **ISO 27001**, **NIST** e **LGPD**, estruturadas com o apoio do Google Gemini:
+
+1. **Autenticação Forte (2FA):** Conta GitHub (`Felipemg05`) e Google Workspace protegidas por Autenticação em Dois Fatores, com operações Git autenticadas via SSH/Token de escopo restrito.
+2. **Controle de Acesso (RBAC):** Repositório público apenas para leitura (`Read-Only`). Alterações na branch `main` exigem submissão e revisão via *Pull Request*.
+3. **Prevenção de Vazamento de Dados:** Uso estrito de `.gitignore` para bloquear o envio de variáveis de ambiente (`.env`), credenciais e arquivos temporários.
+
+---
+
+## 🤝 Como Contribuir e Práticas de Colaboração (Git Flow)
+
+Para sugerir melhorias ou colaborar nos projetos do **Study-Hub-TI**, siga o fluxo abaixo:
+
+1. Faça um **Fork** deste repositório e clone-o localmente:
+   ```bash
+   git clone [https://github.com/Felipemg05/Study-Hub-TI.git](https://github.com/Felipemg05/Study-Hub-TI.git)
+   cd Study-Hub-TI
